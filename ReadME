@@ -1,0 +1,12 @@
+# My Custom Shell (CodeCrafters)
+
+A simple Unix shell implementation in C.
+
+## Base Stages:
+- [x] Prompting `$`
+- [x] REPL loop
+- [x] Builtins: `echo`, `exit`, `type`
+- [x] Executing external programs (`fork`, `execvp`, `wait`)
+
+## What I learned:
+I learned how to create a `REPL loop`, how to work with `environmental variables` (PATH) and how `OS manages processes`. Hardest Challenge was understanding how PATH , `fork()` and `execvp()` work
